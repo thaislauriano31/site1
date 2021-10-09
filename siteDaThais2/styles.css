@@ -1,5 +1,7 @@
 header{
     background: mistyrose;
+    width: 100%;
+    text-align: center;
 }body{
     background: lightpink;
 }h1, h2{
@@ -24,4 +26,7 @@ header{
     height: 500px;
     margin-right: 50px;
     margin-left: 50px;
+}.foot{
+    background: mistyrose;
+    width: 100%;
 }
