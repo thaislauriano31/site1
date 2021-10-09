@@ -29,4 +29,6 @@ header{
 }.foot{
     background: mistyrose;
     width: 100%;
+    text-align: right;
+    color: crimson;
 }
